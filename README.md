@@ -1,2 +1,2 @@
-# devopsclass
-its for class purpose
+This a Class project
+User only Jave 
