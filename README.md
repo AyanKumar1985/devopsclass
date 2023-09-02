@@ -1,2 +1,3 @@
+#Devops Class
 This a Class project
-User only Jave 
+Technologies to be usekd : python, Container , Kubernets
